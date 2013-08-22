@@ -3,8 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package webcrawler;
+package crawler;
 
+/**
+ *
+ * @author azyl
+ */
 import java.io.BufferedOutputStream;
 import java.io.BufferedReader;
 import java.io.File;
@@ -25,7 +29,7 @@ import org.jsoup.select.Elements;
  *
  * @author azyl
  */
-public class WebCrawler {
+public class Crawler {
 
     
      void crawl(String[] args) throws IOException {
@@ -94,7 +98,7 @@ public class WebCrawler {
         print("Checking for saved versions of the url:");
         
         
-        URL location = WebCrawler.class.getProtectionDomain().getCodeSource().getLocation();
+        URL location = Crawler.class.getProtectionDomain().getCodeSource().getLocation();
         String fileName = url.substring( url.lastIndexOf('/')+1, url.length() );
         File tempFile = new File(location.getFile()+fileName);
         String tempFile_name=location.getFile()+fileName;
@@ -143,7 +147,7 @@ public class WebCrawler {
         print("Checking for saved versions of the url:");
         
         
-        URL location = WebCrawler.class.getProtectionDomain().getCodeSource().getLocation();
+        URL location = Crawler.class.getProtectionDomain().getCodeSource().getLocation();
         String fileName = url.substring( url.lastIndexOf('/')+1, url.length() );
         File tempFile = new File(location.getFile()+fileName);
         String tempFile_name=location.getFile()+fileName;
@@ -221,7 +225,7 @@ public class WebCrawler {
      */
     public static void main(String[] args) throws IOException {
         String url[]= {"http://www.oferte.ro/categorie/animale/caini"};
-        WebCrawler Simpleproj = new WebCrawler();
+        Crawler Simpleproj = new Crawler();
         Simpleproj.Scout_crawler(url);
         
         /*
@@ -236,3 +240,4 @@ public class WebCrawler {
  
     
 }
+

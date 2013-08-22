@@ -3,9 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/azyl/NetBeansProjects/WebCrawler/src/webcrawler/WebCrawler.java</file>
-            <file>file:/home/azyl/NetBeansProjects/WebCrawler/src/webcrawler/ScrappedItem.java</file>
-            <file>file:/home/azyl/NetBeansProjects/WebCrawler/src/webcrawler/CSVwritter.java</file>
+            <file>file:/home/azyl/NetBeansProjects/Crawler/src/crawler/Crawler.java</file>
+            <file>file:/home/azyl/NetBeansProjects/Crawler/src/crawler/Main_JFrame.java</file>
+            <file>file:/home/azyl/NetBeansProjects/Crawler/src/crawler/About_JDialog.java</file>
         </group>
     </open-files>
 </project-private>
