@@ -64,7 +64,8 @@
       <Layout>
         <DimensionLayout dim="0">
           <Group type="103" groupAlignment="0" attributes="0">
-              <Group type="102" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
                   <Group type="103" groupAlignment="0" attributes="0">
                       <Group type="103" groupAlignment="0" max="-2" attributes="0">
                           <Component id="jLabel2" min="-2" pref="323" max="-2" attributes="0"/>
@@ -72,7 +73,7 @@
                               <EmptySpace min="341" pref="341" max="341" attributes="0"/>
                               <Component id="jScrollPane1" linkSize="5" min="-2" pref="530" max="-2" attributes="0"/>
                           </Group>
-                          <Group type="102" alignment="1" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
                               <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
                               <Component id="scout_crawler_jRadioButton" linkSize="3" min="-2" max="-2" attributes="0"/>
                               <EmptySpace min="-2" pref="156" max="-2" attributes="0"/>
@@ -98,8 +99,28 @@
                               <Component id="Depth_crawler_jRadioButton" linkSize="3" alignment="0" min="-2" max="-2" attributes="0"/>
                           </Group>
                       </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="jLabel5" linkSize="6" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="32767" attributes="0"/>
+                                  <Component id="nr_queue_threads_jSpinner" linkSize="8" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="jLabel4" linkSize="6" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="32767" attributes="0"/>
+                                  <Component id="nr_active_threads_jSpinner" linkSize="8" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="jLabel3" linkSize="6" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="nr_pool_threads_jSpinner" linkSize="8" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
                   </Group>
-                  <EmptySpace max="32767" attributes="0"/>
+                  <EmptySpace min="-2" max="-2" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -116,7 +137,22 @@
                           <Component id="jScrollPane1" min="-2" pref="304" max="-2" attributes="0"/>
                       </Group>
                   </Group>
-                  <EmptySpace min="-2" pref="93" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="51" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="nr_pool_threads_jSpinner" linkSize="9" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel3" linkSize="7" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="nr_active_threads_jSpinner" linkSize="9" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel4" linkSize="7" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel5" linkSize="7" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="nr_queue_threads_jSpinner" linkSize="9" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="154" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
                       <Component id="scout_crawler_jRadioButton" linkSize="4" alignment="3" min="-2" max="-2" attributes="0"/>
                       <Component id="start_url_jTextField" alignment="3" min="-2" max="-2" attributes="0"/>
@@ -135,7 +171,7 @@
                       <Component id="exit_jButton" alignment="3" min="-2" max="-2" attributes="0"/>
                       <Component id="About_jButton" alignment="3" min="-2" max="-2" attributes="0"/>
                   </Group>
-                  <EmptySpace pref="18" max="32767" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -149,7 +185,6 @@
             <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.ComponentChooserEditor">
               <ComponentRef name="Select_crawler_type_radiobuttonGroup"/>
             </Property>
-            <Property name="selected" type="boolean" value="true"/>
             <Property name="text" type="java.lang.String" value="Scout Crawler"/>
           </Properties>
         </Component>
@@ -239,6 +274,27 @@
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="About_jButtonActionPerformed"/>
           </Events>
+        </Component>
+        <Component class="javax.swing.JSpinner" name="nr_pool_threads_jSpinner">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Number of Threads in the Thread Pool:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JSpinner" name="nr_active_threads_jSpinner">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Number of Active Threads:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel5">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Number of Queue Threads:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JSpinner" name="nr_queue_threads_jSpinner">
         </Component>
       </SubComponents>
     </Container>

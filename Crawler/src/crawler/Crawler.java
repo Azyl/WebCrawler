@@ -29,7 +29,7 @@ import org.jsoup.select.Elements;
  *
  * @author azyl
  */
-public class Crawler {
+public class Crawler implements Runnable{
 
     
      void crawl(String[] args) throws IOException {
@@ -233,6 +233,11 @@ public class Crawler {
         WebCrawler crler = new WebCrawler();
         crler.crawl(args_s);
                 */
+    }
+
+    @Override
+    public void run() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
   
