@@ -13,9 +13,10 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.ThreadFactory;
 import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
+import org.jsoup.helper.Validate;
  
 public class WorkerPool {
- 
+    
     public static void main(String args[]) throws InterruptedException{
         //RejectedExecutionHandler implementation
         RejectedExecutionHandlerImpl rejectionHandler = new RejectedExecutionHandlerImpl();
@@ -28,9 +29,10 @@ public class WorkerPool {
         Thread monitorThread = new Thread(monitor);
         monitorThread.start();
         //submit work to the thread pool
+        Validate.isTrue(args.length == 1, "usage: supply url to fetch");
         for(int i=2; i<8; i++){
             //executorPool.execute(new WorkerThread("cmd"+i)); 
-            executorPool.execute(new WorkerThread("http://www.oferte.ro/categorie/imobiliare/page/"+i));
+            executorPool.execute(new WorkerThread(args[0]+i));
         }
          
         Thread.sleep(8000);

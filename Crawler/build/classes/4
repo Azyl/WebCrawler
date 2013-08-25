@@ -1,0 +1,575 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="ro-RO" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+ <head profile="http://gmpg.org/xfn/11"> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+  <title>Imobiliare</title> 
+  <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.oferte.ro/feed?post_type=ad_listing" /> 
+  <link rel="pingback" href="http://www.oferte.ro/xmlrpc.php" /> 
+  <link rel="shortcut icon" href="http://www.oferte.ro/wp-content/themes/classipress/images/favicon.ico" type="image/x-icon" /> 
+  <!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.13 - http://yoast.com/wordpress/seo/ --> 
+  <link rel="canonical" href="http://www.oferte.ro/categorie/imobiliare/page/4" /> 
+  <link rel="prev" href="http://www.oferte.ro/categorie/imobiliare/page/3" /> 
+  <link rel="next" href="http://www.oferte.ro/categorie/imobiliare/page/5" /> 
+  <!-- / Yoast WordPress SEO plugin. --> 
+  <link rel="alternate" type="application/rss+xml" title="Oferte.Ro &raquo; Feed" href="http://www.oferte.ro/feed" /> 
+  <link rel="alternate" type="application/rss+xml" title="Oferte.Ro &raquo; Comments Feed" href="http://www.oferte.ro/comments/feed" /> 
+  <link rel="stylesheet" id="at-main-css" href="http://www.oferte.ro/wp-content/themes/classipress/style.css?ver=3.3" type="text/css" media="all" /> 
+  <link rel="stylesheet" id="at-color-css" href="http://www.oferte.ro/wp-content/themes/classipress/styles/blue.css?ver=3.3" type="text/css" media="all" /> 
+  <link rel="stylesheet" id="autocomplete-css" href="http://www.oferte.ro/wp-content/themes/classipress/includes/js/jquery-ui/jquery-ui-1.8.5.autocomplete.css?ver=1.8.5" type="text/css" media="all" /> 
+  <script type="text/javascript" src="http://www.oferte.ro/wp-includes/js/jquery/jquery.js?ver=1.7.1"></script> 
+  <script type="text/javascript" src="http://www.oferte.ro/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.8.16"></script> 
+  <script type="text/javascript" src="http://www.oferte.ro/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.8.16"></script> 
+  <script type="text/javascript" src="http://www.oferte.ro/wp-includes/js/jquery/ui/jquery.ui.position.min.js?ver=1.8.16"></script> 
+  <script type="text/javascript" src="http://www.oferte.ro/wp-content/themes/classipress/includes/js/ui.autocomplete.js?ver=1.8.5"></script> 
+  <script type="text/javascript" src="http://www.oferte.ro/wp-content/themes/classipress/includes/js/selectbox.min.js?ver=1.0.7"></script> 
+  <script type="text/javascript">
+/* <![CDATA[ */
+var theme_scripts_loc = {"appTaxTag":"ad_tag"};
+/* ]]> */
+</script> 
+  <script type="text/javascript" src="http://www.oferte.ro/wp-content/themes/classipress/includes/js/theme-scripts.js?ver=3.1"></script> 
+  <script type="text/javascript" src="http://www.oferte.ro/wp-content/themes/classipress/includes/js/superfish.js?ver=1.4.8"></script> 
+  <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.oferte.ro/xmlrpc.php?rsd" /> 
+  <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oferte.ro/wp-includes/wlwmanifest.xml" /> 
+  <meta name="generator" content="WordPress 3.3" /> 
+  <meta name="version" content="ClassiPress 3.1.5" /> 
+  <meta name="db-version" content="" /> 
+ </head> 
+ <body class="archive paged tax-ad_cat term-imobiliare term-7 paged-4"> 
+  <div class="container"> 
+   <!-- HEADER --> 
+   <div class="header"> 
+    <div class="header_top"> 
+     <div class="header_top_res"> 
+      <p> Bine ai venit, <strong>vizitatorule!</strong> [ <a href="http://www.oferte.ro/wp-login.php?action=register">Inregistrare</a> | <a href="http://www.oferte.ro/wp-login.php">Autentificare</a> ]&nbsp; <a href="http://www.oferte.ro/feed?post_type=ad_listing" target="_blank"><img src="http://www.oferte.ro/wp-content/themes/classipress/images/icon_rss.gif" width="16" height="16" alt="rss" class="srvicon" /></a> </p> 
+     </div>
+     <!-- /header_top_res --> 
+    </div>
+    <!-- /header_top --> 
+    <div class="header_main"> 
+     <div class="header_main_bg"> 
+      <div class="header_main_res"> 
+       <div id="logo"> 
+        <h1><a href="http://www.oferte.ro/">Oferte.Ro</a></h1> 
+        <div class="description">
+         oferte imobiliare, auto, telefoane, calculatoare, electronice, diverse.
+        </div> 
+       </div>
+       <!-- /logo --> 
+       <div class="clr"></div> 
+      </div>
+      <!-- /header_main_res --> 
+     </div>
+     <!-- /header_main_bg --> 
+    </div>
+    <!-- /header_main --> 
+    <div class="header_menu"> 
+     <div class="header_menu_res"> 
+      <a href="http://www.oferte.ro/adauga-anunt-nou/" class="obtn btn_orange">Adauga anunt</a> 
+      <ul id="nav"> 
+       <li class=""><a href="http://www.oferte.ro">Acasa</a></li> 
+       <li class="mega"><a href="#">Categorii</a> 
+        <div class="adv_categories" id="adv_categories"> 
+         <div class="catcol  first">
+          <ul>
+           <li class="maincat cat-item-34"><a href="http://www.oferte.ro/categorie/animale" title="">Animale</a> (17)</li> 
+           <li class="cat-item cat-item-35"><a href="http://www.oferte.ro/categorie/animale/caini" title="View all posts filed under Caini">Caini</a> </li> 
+           <li class="cat-item cat-item-37"><a href="http://www.oferte.ro/categorie/animale/pasari" title="View all posts filed under Pasari">Pasari</a> </li> 
+           <li class="cat-item cat-item-38"><a href="http://www.oferte.ro/categorie/animale/pesti" title="View all posts filed under Pesti">Pesti</a> </li> 
+           <li class="cat-item cat-item-36"><a href="http://www.oferte.ro/categorie/animale/pisici" title="View all posts filed under Pisici">Pisici</a> </li> 
+          </ul>
+          <ul>
+           <li class="maincat cat-item-18"><a href="http://www.oferte.ro/categorie/auto-moto" title="">Auto, Moto</a> (45)</li> 
+           <li class="cat-item cat-item-25"><a href="http://www.oferte.ro/categorie/auto-moto/auto-comerciale" title="View all posts filed under Auto comerciale">Auto comerciale</a> </li> 
+           <li class="cat-item cat-item-21"><a href="http://www.oferte.ro/categorie/auto-moto/dezmembrari-auto" title="View all posts filed under Dezmembrari Auto">Dezmembrari Auto</a> </li> 
+           <li class="cat-item cat-item-19"><a href="http://www.oferte.ro/categorie/auto-moto/masini-second-hand" title="View all posts filed under Masini Second Hand">Masini Second Hand</a> </li> 
+           <li class="cat-item cat-item-23"><a href="http://www.oferte.ro/categorie/auto-moto/motociclete" title="View all posts filed under Motociclete">Motociclete</a> </li> 
+           <li class="cat-item cat-item-20"><a href="http://www.oferte.ro/categorie/auto-moto/piese-auto" title="View all posts filed under Piese Auto">Piese Auto</a> </li> 
+          </ul>
+         </div>
+         <!-- /catcol -->
+         <div class="catcol  first">
+          <ul>
+           <li class="maincat cat-item-33"><a href="http://www.oferte.ro/categorie/diverse" title="">Diverse</a> (60)</li>
+          </ul>
+          <ul>
+           <li class="maincat cat-item-26"><a href="http://www.oferte.ro/categorie/electronice" title="">Electronice</a> (26)</li> 
+           <li class="cat-item cat-item-31"><a href="http://www.oferte.ro/categorie/electronice/aparate-foto" title="View all posts filed under Aparate foto">Aparate foto</a> </li> 
+           <li class="cat-item cat-item-29"><a href="http://www.oferte.ro/categorie/electronice/audio-video" title="View all posts filed under Audio/Video">Audio/Video</a> </li> 
+           <li class="cat-item cat-item-28"><a href="http://www.oferte.ro/categorie/electronice/calculatoare" title="View all posts filed under Calculatoare">Calculatoare</a> </li> 
+           <li class="cat-item cat-item-32"><a href="http://www.oferte.ro/categorie/electronice/electrocasnice" title="View all posts filed under Electrocasnice">Electrocasnice</a> </li> 
+           <li class="cat-item cat-item-40"><a href="http://www.oferte.ro/categorie/electronice/laptopuri" title="View all posts filed under Laptopuri">Laptopuri</a> </li> 
+          </ul>
+         </div>
+         <!-- /catcol -->
+         <div class="catcol  first">
+          <ul>
+           <li class="maincat cat-item-7"><a href="http://www.oferte.ro/categorie/imobiliare" title="">Imobiliare</a> (71)</li> 
+           <li class="cat-item cat-item-13"><a href="http://www.oferte.ro/categorie/imobiliare/apartamente-4-camere" title="View all posts filed under Apartamente +4 camere">Apartamente +4 camere</a> </li> 
+           <li class="cat-item cat-item-8"><a href="http://www.oferte.ro/categorie/imobiliare/apartamente-2-camere" title="View all posts filed under Apartamente 2 camere">Apartamente 2 camere</a> </li> 
+           <li class="cat-item cat-item-12"><a href="http://www.oferte.ro/categorie/imobiliare/apartamente-3-camere" title="View all posts filed under Apartamente 3 camere">Apartamente 3 camere</a> </li> 
+           <li class="cat-item cat-item-14"><a href="http://www.oferte.ro/categorie/imobiliare/birouri" title="View all posts filed under Birouri">Birouri</a> </li> 
+           <li class="cat-item cat-item-9"><a href="http://www.oferte.ro/categorie/imobiliare/case" title="View all posts filed under Case, vile">Case, vile</a> </li> 
+          </ul>
+          <ul>
+           <li class="maincat cat-item-42"><a href="http://www.oferte.ro/categorie/revelion" title="Oferte revelion 2012, revelion Viena, Paris, Cehia, Budapesta, oferte revelion Thailanda 2012.">Revelion 2012</a> (10)</li>
+          </ul>
+         </div>
+         <!-- /catcol --> 
+        </div>
+        <!-- /adv_categories --> </li> 
+      </ul> 
+      <ul class="menu">
+       <li class="page_item page-item-9"><a href="http://www.oferte.ro/blog">Blog</a></li> 
+      </ul> 
+      <div class="clr"></div> 
+     </div>
+     <!-- /header_menu_res --> 
+    </div>
+    <!-- /header_menu --> 
+   </div>
+   <!-- /header --> 
+   <div id="search-bar"> 
+    <div class="searchblock_out"> 
+     <div class="searchblock"> 
+      <form action="http://www.oferte.ro" method="get" id="searchform" class="form_search"> 
+       <div class="searchfield"> 
+        <input name="s" type="text" id="s" tabindex="1" class="editbox_search" style="width:450px" value="Introdu termen cautare..." onfocus="if (this.value == 'Introdu termen cautare...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Introdu termen cautare...';}" /> 
+       </div> 
+       <div class="searchbutcat"> 
+        <button class="btn-topsearch" type="submit" tabindex="3" title="" id="go" value="search" name="sa">Search Ads</button> 
+        <select name="cat" id="cat" class="searchbar" tabindex="2"> <option value="0" selected="selected">Toate categoriile</option> <option class="level-0" value="34">Animale</option> <option class="level-1" value="35">&nbsp;&nbsp;&nbsp;Caini</option> <option class="level-1" value="37">&nbsp;&nbsp;&nbsp;Pasari</option> <option class="level-1" value="38">&nbsp;&nbsp;&nbsp;Pesti</option> <option class="level-1" value="36">&nbsp;&nbsp;&nbsp;Pisici</option> <option class="level-0" value="18">Auto, Moto</option> <option class="level-1" value="25">&nbsp;&nbsp;&nbsp;Auto comerciale</option> <option class="level-1" value="21">&nbsp;&nbsp;&nbsp;Dezmembrari Auto</option> <option class="level-1" value="19">&nbsp;&nbsp;&nbsp;Masini Second Hand</option> <option class="level-1" value="23">&nbsp;&nbsp;&nbsp;Motociclete</option> <option class="level-1" value="20">&nbsp;&nbsp;&nbsp;Piese Auto</option> <option class="level-1" value="24">&nbsp;&nbsp;&nbsp;Piese moto</option> <option class="level-1" value="39">&nbsp;&nbsp;&nbsp;Rulote</option> <option class="level-1" value="22">&nbsp;&nbsp;&nbsp;Tuning Masini</option> <option class="level-0" value="33">Diverse</option> <option class="level-0" value="26">Electronice</option> <option class="level-1" value="31">&nbsp;&nbsp;&nbsp;Aparate foto</option> <option class="level-1" value="29">&nbsp;&nbsp;&nbsp;Audio/Video</option> <option class="level-1" value="28">&nbsp;&nbsp;&nbsp;Calculatoare</option> <option class="level-1" value="32">&nbsp;&nbsp;&nbsp;Electrocasnice</option> <option class="level-1" value="40">&nbsp;&nbsp;&nbsp;Laptopuri</option> <option class="level-1" value="27">&nbsp;&nbsp;&nbsp;Telefoane mobile</option> <option class="level-1" value="30">&nbsp;&nbsp;&nbsp;Televizoare</option> <option class="level-0" value="7">Imobiliare</option> <option class="level-1" value="13">&nbsp;&nbsp;&nbsp;Apartamente +4 camere</option> <option class="level-1" value="8">&nbsp;&nbsp;&nbsp;Apartamente 2 camere</option> <option class="level-1" value="12">&nbsp;&nbsp;&nbsp;Apartamente 3 camere</option> <option class="level-1" value="14">&nbsp;&nbsp;&nbsp;Birouri</option> <option class="level-1" value="9">&nbsp;&nbsp;&nbsp;Case, vile</option> <option class="level-1" value="17">&nbsp;&nbsp;&nbsp;Ferme</option> <option class="level-1" value="11">&nbsp;&nbsp;&nbsp;Garsoniere</option> <option class="level-1" value="16">&nbsp;&nbsp;&nbsp;Pensiuni</option> <option class="level-1" value="15">&nbsp;&nbsp;&nbsp;Spatii comerciale</option> <option class="level-1" value="10">&nbsp;&nbsp;&nbsp;Terenuri</option> <option class="level-0" value="42">Revelion 2012</option> </select> 
+       </div> 
+      </form> 
+     </div> 
+     <!-- /searchblock --> 
+    </div> 
+    <!-- /searchblock_out --> 
+   </div> 
+   <!-- /search-bar --> 
+   <!-- CONTENT --> 
+   <div class="content"> 
+    <div class="content_botbg"> 
+     <div class="content_res"> 
+      <div id="breadcrumb"> 
+       <div id="crumbs">
+        <a href="http://www.oferte.ro">Acasa</a> &raquo; 
+        <span class="current">Imobiliare</span>Page 4
+       </div> 
+      </div> 
+      <!-- left block --> 
+      <div class="content_left"> 
+       <div class="shadowblock_out"> 
+        <div class="shadowblock"> 
+         <div id="catrss">
+          <a href="http://www.oferte.ro/categorie/imobiliarefeed/"><img src="http://www.oferte.ro/wp-content/themes/classipress/images/rss.png" width="16" height="16" alt="Imobiliare RSS Feed" title="Imobiliare RSS Feed" /></a>
+         </div> 
+         <h1 class="single dotted">Anunturi pentru Imobiliare (71)</h1> 
+         <p></p> 
+        </div>
+        <!-- /shadowblock --> 
+       </div>
+       <!-- /shadowblock_out --> 
+       <div class="post-block-out"> 
+        <div class="post-block"> 
+         <div class="post-left"> 
+          <a href="http://www.oferte.ro/anunt/proprietar-vand-apartament-2-camere" title="Proprietar,  vand apartament 2 camere" class="preview" rel="http://www.oferte.ro/wp-content/uploads/2012/10/571374-500x375.jpg"><img width="75" height="75" src="http://www.oferte.ro/wp-content/uploads/2012/10/571374-75x75.jpg" class="attachment-ad-thumb" alt="Proprietar,  vand apartament 2 camere" title="Proprietar,  vand apartament 2 camere" /></a> 
+         </div> 
+         <div class="post-right full"> 
+          <div class="price-wrap"> 
+           <span class="tag-head">&nbsp;</span>
+           <p class="post-price">60000</p> 
+          </div> 
+          <h3><a href="http://www.oferte.ro/anunt/proprietar-vand-apartament-2-camere">Proprietar, vand apartament 2 camere</a></h3> 
+          <div class="clr"></div> 
+          <p class="post-meta"> <span class="folder"><a href="http://www.oferte.ro/categorie/imobiliare/apartamente-2-camere" rel="tag">Apartamente 2 camere</a></span> | <span class="owner"><a href="http://www.oferte.ro/author/antonia25" title="Posts by antonia25" rel="author">antonia25</a></span> | <span class="clock"><span>29/10/2012</span></span> </p> 
+          <div class="clr"></div> 
+          <p class="post-desc">Proprietar, vand ap. 2 camere, imobil 2012, sup 65 mp, decomandat, finisat, g,f, parchet, bucatarie inchisa, centrala proprie, usa metalica, cablu tv, tamplarie pvc...</p> 
+          <p class="stats"></p> 
+          <div class="clr"></div> 
+         </div> 
+         <div class="clr"></div> 
+        </div>
+        <!-- /post-block --> 
+       </div>
+       <!-- /post-block-out --> 
+       <div class="post-block-out"> 
+        <div class="post-block"> 
+         <div class="post-left"> 
+          <a href="http://www.oferte.ro/anunt/teren-la-super-pret" title="Teren la super pret"><img class="attachment-medium" alt="" title="" src="http://www.oferte.ro/wp-content/themes/classipress/images/no-thumb-75.jpg" /></a> 
+         </div> 
+         <div class="post-right full"> 
+          <div class="price-wrap"> 
+           <span class="tag-head">&nbsp;</span>
+           <p class="post-price">22000</p> 
+          </div> 
+          <h3><a href="http://www.oferte.ro/anunt/teren-la-super-pret">Teren la super pret</a></h3> 
+          <div class="clr"></div> 
+          <p class="post-meta"> <span class="folder"><a href="http://www.oferte.ro/categorie/imobiliare/terenuri" rel="tag">Terenuri</a></span> | <span class="owner"><a href="http://www.oferte.ro/author/marian-movila" title="Posts by marian.movila" rel="author">marian.movila</a></span> | <span class="clock"><span>25/09/2012</span></span> </p> 
+          <div class="clr"></div> 
+          <p class="post-desc">Teren de vanzare la periferia satului Ucea de Sus,cartier nou situat la 2km de or.Victoria. Are vedere superba spre munte, ideal fiind pentru case de vacanta. Import...</p> 
+          <p class="stats"></p> 
+          <div class="clr"></div> 
+         </div> 
+         <div class="clr"></div> 
+        </div>
+        <!-- /post-block --> 
+       </div>
+       <!-- /post-block-out --> 
+       <div class="post-block-out"> 
+        <div class="post-block"> 
+         <div class="post-left"> 
+          <a href="http://www.oferte.ro/anunt/inchiriere" title="inchiriere"><img class="attachment-medium" alt="" title="" src="http://www.oferte.ro/wp-content/themes/classipress/images/no-thumb-75.jpg" /></a> 
+         </div> 
+         <div class="post-right full"> 
+          <div class="price-wrap"> 
+           <span class="tag-head">&nbsp;</span>
+           <p class="post-price">200</p> 
+          </div> 
+          <h3><a href="http://www.oferte.ro/anunt/inchiriere">inchiriere</a></h3> 
+          <div class="clr"></div> 
+          <p class="post-meta"> <span class="folder"><a href="http://www.oferte.ro/categorie/imobiliare/case" rel="tag">Case, vile</a></span> | <span class="owner"><a href="http://www.oferte.ro/author/syka123" title="Posts by syka123" rel="author">syka123</a></span> | <span class="clock"><span>13/09/2012</span></span> </p> 
+          <div class="clr"></div> 
+          <p class="post-desc">caut sa inchiriez o casa cu 2-3 camere in Iasi zona Tatarasi relatii la tel.0749581462 sau e-mail giuliano_syka@yahoo.com</p> 
+          <p class="stats"></p> 
+          <div class="clr"></div> 
+         </div> 
+         <div class="clr"></div> 
+        </div>
+        <!-- /post-block --> 
+       </div>
+       <!-- /post-block-out --> 
+       <div class="post-block-out"> 
+        <div class="post-block"> 
+         <div class="post-left"> 
+          <a href="http://www.oferte.ro/anunt/inchiriez-garsoniera" title="inchiriez garsoniera"><img class="attachment-medium" alt="" title="" src="http://www.oferte.ro/wp-content/themes/classipress/images/no-thumb-75.jpg" /></a> 
+         </div> 
+         <div class="post-right full"> 
+          <div class="price-wrap"> 
+           <span class="tag-head">&nbsp;</span>
+           <p class="post-price">100 eur</p> 
+          </div> 
+          <h3><a href="http://www.oferte.ro/anunt/inchiriez-garsoniera">inchiriez garsoniera</a></h3> 
+          <div class="clr"></div> 
+          <p class="post-meta"> <span class="folder"><a href="http://www.oferte.ro/categorie/imobiliare/garsoniere" rel="tag">Garsoniere</a></span> | <span class="owner"><a href="http://www.oferte.ro/author/poenaru" title="Posts by poenaru" rel="author">poenaru</a></span> | <span class="clock"><span>03/09/2012</span></span> </p> 
+          <div class="clr"></div> 
+          <p class="post-desc">inchiriez garsoniera in arad ,cart micalaca ,confort I,parter,mobilata complet,frigider,aragaz,masina spalat automata,tv,cablu,internet,</p> 
+          <p class="stats"></p> 
+          <div class="clr"></div> 
+         </div> 
+         <div class="clr"></div> 
+        </div>
+        <!-- /post-block --> 
+       </div>
+       <!-- /post-block-out --> 
+       <div class="post-block-out"> 
+        <div class="post-block"> 
+         <div class="post-left"> 
+          <a href="http://www.oferte.ro/anunt/apartament-2camere-de-vanzare-3" title="APARTAMENT 2CAMERE DE VANZARE" class="preview" rel="http://www.oferte.ro/wp-content/uploads/2012/08/447055-500x375.jpg"><img width="75" height="75" src="http://www.oferte.ro/wp-content/uploads/2012/08/447055-75x75.jpg" class="attachment-ad-thumb" alt="APARTAMENT 2CAMERE DE VANZARE" title="APARTAMENT 2CAMERE DE VANZARE" /></a> 
+         </div> 
+         <div class="post-right full"> 
+          <div class="price-wrap"> 
+           <span class="tag-head">&nbsp;</span>
+           <p class="post-price">62000</p> 
+          </div> 
+          <h3><a href="http://www.oferte.ro/anunt/apartament-2camere-de-vanzare-3">APARTAMENT 2CAMERE DE VANZARE</a></h3> 
+          <div class="clr"></div> 
+          <p class="post-meta"> <span class="folder"><a href="http://www.oferte.ro/categorie/imobiliare" rel="tag">Imobiliare</a></span> | <span class="owner"><a href="http://www.oferte.ro/author/sc-nyky-imobiliare" title="Posts by SC NYKY IMOBILIARE" rel="author">SC NYKY IMOBILIARE</a></span> | <span class="clock"><span>31/08/2012</span></span> </p> 
+          <div class="clr"></div> 
+          <p class="post-desc">VITAN, Mall vav parter/ 4, cu balcon inchis in termopan, gresie, faianta, parchet, termopan, usa metalica, aer conditionat, baie cu geam, 64 mp 1990, cadastru, foart...</p> 
+          <p class="stats"></p> 
+          <div class="clr"></div> 
+         </div> 
+         <div class="clr"></div> 
+        </div>
+        <!-- /post-block --> 
+       </div>
+       <!-- /post-block-out --> 
+       <div class="post-block-out"> 
+        <div class="post-block"> 
+         <div class="post-left"> 
+          <a href="http://www.oferte.ro/anunt/apartament-2camere-de-vanzare-2" title="APARTAMENT 2CAMERE DE VANZARE" class="preview" rel="http://www.oferte.ro/wp-content/uploads/2012/08/518078-375x500.jpg"><img width="75" height="75" src="http://www.oferte.ro/wp-content/uploads/2012/08/518078-75x75.jpg" class="attachment-ad-thumb" alt="APARTAMENT 2CAMERE DE VANZARE" title="APARTAMENT 2CAMERE DE VANZARE" /></a> 
+         </div> 
+         <div class="post-right full"> 
+          <div class="price-wrap"> 
+           <span class="tag-head">&nbsp;</span>
+           <p class="post-price">54000</p> 
+          </div> 
+          <h3><a href="http://www.oferte.ro/anunt/apartament-2camere-de-vanzare-2">APARTAMENT 2CAMERE DE VANZARE</a></h3> 
+          <div class="clr"></div> 
+          <p class="post-meta"> <span class="folder"><a href="http://www.oferte.ro/categorie/imobiliare" rel="tag">Imobiliare</a></span> | <span class="owner"><a href="http://www.oferte.ro/author/sc-nyky-imobiliare" title="Posts by SC NYKY IMOBILIARE" rel="author">SC NYKY IMOBILIARE</a></span> | <span class="clock"><span>31/08/2012</span></span> </p> 
+          <div class="clr"></div> 
+          <p class="post-desc">VITAN, Olimpia VAV de Stadion, strada Lugojana, etaj 2/ 10, confort 1, dec, 58 mp utili, 1981, gresie, faianta, langa Real, Mega Image, mijloace de transport in comu...</p> 
+          <p class="stats"></p> 
+          <div class="clr"></div> 
+         </div> 
+         <div class="clr"></div> 
+        </div>
+        <!-- /post-block --> 
+       </div>
+       <!-- /post-block-out --> 
+       <div class="post-block-out"> 
+        <div class="post-block"> 
+         <div class="post-left"> 
+          <a href="http://www.oferte.ro/anunt/garsoniera-de-inchiriat" title="GARSONIERA DE INCHIRIAT" class="preview" rel="http://www.oferte.ro/wp-content/uploads/2012/08/959158-500x375.jpg"><img width="75" height="75" src="http://www.oferte.ro/wp-content/uploads/2012/08/959158-75x75.jpg" class="attachment-ad-thumb" alt="GARSONIERA DE INCHIRIAT" title="GARSONIERA DE INCHIRIAT" /></a> 
+         </div> 
+         <div class="post-right full"> 
+          <div class="price-wrap"> 
+           <span class="tag-head">&nbsp;</span>
+           <p class="post-price">300</p> 
+          </div> 
+          <h3><a href="http://www.oferte.ro/anunt/garsoniera-de-inchiriat">GARSONIERA DE INCHIRIAT</a></h3> 
+          <div class="clr"></div> 
+          <p class="post-meta"> <span class="folder"><a href="http://www.oferte.ro/categorie/imobiliare/garsoniere" rel="tag">Garsoniere</a></span> | <span class="owner"><a href="http://www.oferte.ro/author/sc-nyky-imobiliare" title="Posts by SC NYKY IMOBILIARE" rel="author">SC NYKY IMOBILIARE</a></span> | <span class="clock"><span>31/08/2012</span></span> </p> 
+          <div class="clr"></div> 
+          <p class="post-desc">UNIRII ZEPTER BLOC MIXT, et.7/8, cf.1/dec., 42mp, gresie, faianta, parchet, termopan, usa metal, mobilata si utilata, disponibila imediat, 1+1garantie</p> 
+          <p class="stats"></p> 
+          <div class="clr"></div> 
+         </div> 
+         <div class="clr"></div> 
+        </div>
+        <!-- /post-block --> 
+       </div>
+       <!-- /post-block-out --> 
+       <div class="post-block-out"> 
+        <div class="post-block"> 
+         <div class="post-left"> 
+          <a href="http://www.oferte.ro/anunt/apartament-2camere-de-vanzare" title="APARTAMENT 2CAMERE DE VANZARE" class="preview" rel="http://www.oferte.ro/wp-content/uploads/2012/08/99823-500x375.jpg"><img width="75" height="75" src="http://www.oferte.ro/wp-content/uploads/2012/08/99823-75x75.jpg" class="attachment-ad-thumb" alt="APARTAMENT 2CAMERE DE VANZARE" title="APARTAMENT 2CAMERE DE VANZARE" /></a> 
+         </div> 
+         <div class="post-right full"> 
+          <div class="price-wrap"> 
+           <span class="tag-head">&nbsp;</span>
+           <p class="post-price">68000</p> 
+          </div> 
+          <h3><a href="http://www.oferte.ro/anunt/apartament-2camere-de-vanzare">APARTAMENT 2CAMERE DE VANZARE</a></h3> 
+          <div class="clr"></div> 
+          <p class="post-meta"> <span class="folder"><a href="http://www.oferte.ro/categorie/imobiliare/apartamente-2-camere" rel="tag">Apartamente 2 camere</a></span> | <span class="owner"><a href="http://www.oferte.ro/author/sc-nyky-imobiliare" title="Posts by SC NYKY IMOBILIARE" rel="author">SC NYKY IMOBILIARE</a></span> | <span class="clock"><span>31/08/2012</span></span> </p> 
+          <div class="clr"></div> 
+          <p class="post-desc">VITAN Mall, Branduselor, 2008, etaj 1/5, confort1 decomandat, gresie, fainta, parchet, termopan, usa metalica, bucatarie mobilata, centrala termica, disponibil imedi...</p> 
+          <p class="stats"></p> 
+          <div class="clr"></div> 
+         </div> 
+         <div class="clr"></div> 
+        </div>
+        <!-- /post-block --> 
+       </div>
+       <!-- /post-block-out --> 
+       <div class="post-block-out"> 
+        <div class="post-block"> 
+         <div class="post-left"> 
+          <a href="http://www.oferte.ro/anunt/inchiriez-ap-2-camere-zona-300-micalaca" title="inchiriez ap 2 camere zona 300 micalaca"><img class="attachment-medium" alt="" title="" src="http://www.oferte.ro/wp-content/themes/classipress/images/no-thumb-75.jpg" /></a> 
+         </div> 
+         <div class="post-right full"> 
+          <div class="price-wrap"> 
+           <span class="tag-head">&nbsp;</span>
+           <p class="post-price">160 eur</p> 
+          </div> 
+          <h3><a href="http://www.oferte.ro/anunt/inchiriez-ap-2-camere-zona-300-micalaca">inchiriez ap 2 camere zona 300 micalaca</a></h3> 
+          <div class="clr"></div> 
+          <p class="post-meta"> <span class="folder"><a href="http://www.oferte.ro/categorie/imobiliare/apartamente-2-camere" rel="tag">Apartamente 2 camere</a></span> | <span class="owner"><a href="http://www.oferte.ro/author/poenaru" title="Posts by poenaru" rel="author">poenaru</a></span> | <span class="clock"><span>31/08/2012</span></span> </p> 
+          <div class="clr"></div> 
+          <p class="post-desc">INCHIRIEZ AP 2 CAMERE ZONA 300 MICALACA,APROAPE DE FACULTATEA AUREL VLAICU,MOBILAT COMPLET,FRIGIDER,ARAGAZ,TV,CABLU,ARAGAZ,MASINA AUTOMATA DE SPALAT,APOMETRE</p> 
+          <p class="stats"></p> 
+          <div class="clr"></div> 
+         </div> 
+         <div class="clr"></div> 
+        </div>
+        <!-- /post-block --> 
+       </div>
+       <!-- /post-block-out --> 
+       <div class="post-block-out"> 
+        <div class="post-block"> 
+         <div class="post-left"> 
+          <a href="http://www.oferte.ro/anunt/garsoniera-de-vanzare-2" title="GARSONIERA DE VANZARE" class="preview" rel="http://www.oferte.ro/wp-content/uploads/2012/08/753104-500x375.jpg"><img width="75" height="75" src="http://www.oferte.ro/wp-content/uploads/2012/08/753104-75x75.jpg" class="attachment-ad-thumb" alt="GARSONIERA DE VANZARE" title="GARSONIERA DE VANZARE" /></a> 
+         </div> 
+         <div class="post-right full"> 
+          <div class="price-wrap"> 
+           <span class="tag-head">&nbsp;</span>
+           <p class="post-price">46500</p> 
+          </div> 
+          <h3><a href="http://www.oferte.ro/anunt/garsoniera-de-vanzare-2">GARSONIERA DE VANZARE</a></h3> 
+          <div class="clr"></div> 
+          <p class="post-meta"> <span class="folder"><a href="http://www.oferte.ro/categorie/imobiliare" rel="tag">Imobiliare</a></span> | <span class="owner"><a href="http://www.oferte.ro/author/sc-nyky-imobiliare" title="Posts by SC NYKY IMOBILIARE" rel="author">SC NYKY IMOBILIARE</a></span> | <span class="clock"><span>31/08/2012</span></span> </p> 
+          <div class="clr"></div> 
+          <p class="post-desc">VITAN Mall, Ag. Barsescu, acces usor metrou Dristor, centru, Mall, et 3/4, confort 1/dec, 42 metri patrati, cu imbunatatiri, gresie, faianta, parchet, termopan, usa ...</p> 
+          <p class="stats"></p> 
+          <div class="clr"></div> 
+         </div> 
+         <div class="clr"></div> 
+        </div>
+        <!-- /post-block --> 
+       </div>
+       <!-- /post-block-out --> 
+       <div class="paging"> 
+        <div class="pages">
+         <span class="total">Pagina 4 din 8</span> 
+         <form method="post" action="http://www.oferte.ro/categorie/imobiliare/" name="pagination1"> 
+          <a href="javascript: void(0);" onclick="document.pagination1.submit();">1</a> 
+         </form> 
+         <form method="post" action="http://www.oferte.ro/categorie/imobiliare/page/2" name="pagination2"> 
+          <a href="javascript: void(0);" onclick="document.pagination2.submit();">2</a> 
+         </form> 
+         <form method="post" action="http://www.oferte.ro/categorie/imobiliare/page/3" name="pagination3"> 
+          <a href="javascript: void(0);" onclick="document.pagination3.submit();">3</a> 
+         </form> 
+         <span class="current">4</span> 
+         <form method="post" action="http://www.oferte.ro/categorie/imobiliare/page/5" name="pagination5"> 
+          <a href="javascript: void(0);" onclick="document.pagination5.submit();">5</a> 
+         </form> 
+         <form method="post" action="http://www.oferte.ro/categorie/imobiliare/page/6" name="pagination6"> 
+          <a href="javascript: void(0);" onclick="document.pagination6.submit();">6</a> 
+         </form> 
+         <form method="post" action="http://www.oferte.ro/categorie/imobiliare/page/7" name="pagination7"> 
+          <a href="javascript: void(0);" onclick="document.pagination7.submit();">7</a> 
+         </form> 
+         <form method="post" action="http://www.oferte.ro/categorie/imobiliare/page/8" name="pagination8"> 
+          <a href="javascript: void(0);" onclick="document.pagination8.submit();">8</a> 
+         </form> 
+        </div>
+        <div class="clr"></div>
+       </div> 
+      </div>
+      <!-- /content_left --> 
+      <div class="content_right"> 
+       <div class="shadowblock_out"> 
+        <div class="shadowblock"> 
+         <h2 class="dotted">Subcategorii</h2> 
+         <ul> 
+          <li class="cat-item cat-item-13"><a href="http://www.oferte.ro/categorie/imobiliare/apartamente-4-camere" title="View all posts filed under Apartamente +4 camere">Apartamente +4 camere</a> (4) </li> 
+          <li class="cat-item cat-item-8"><a href="http://www.oferte.ro/categorie/imobiliare/apartamente-2-camere" title="View all posts filed under Apartamente 2 camere">Apartamente 2 camere</a> (15) </li> 
+          <li class="cat-item cat-item-12"><a href="http://www.oferte.ro/categorie/imobiliare/apartamente-3-camere" title="View all posts filed under Apartamente 3 camere">Apartamente 3 camere</a> (9) </li> 
+          <li class="cat-item cat-item-14"><a href="http://www.oferte.ro/categorie/imobiliare/birouri" title="View all posts filed under Birouri">Birouri</a> (1) </li> 
+          <li class="cat-item cat-item-9"><a href="http://www.oferte.ro/categorie/imobiliare/case" title="View all posts filed under Case, vile">Case, vile</a> (18) </li> 
+          <li class="cat-item cat-item-17"><a href="http://www.oferte.ro/categorie/imobiliare/ferme" title="View all posts filed under Ferme">Ferme</a> (0) </li> 
+          <li class="cat-item cat-item-11"><a href="http://www.oferte.ro/categorie/imobiliare/garsoniere" title="View all posts filed under Garsoniere">Garsoniere</a> (5) </li> 
+          <li class="cat-item cat-item-16"><a href="http://www.oferte.ro/categorie/imobiliare/pensiuni" title="View all posts filed under Pensiuni">Pensiuni</a> (0) </li> 
+          <li class="cat-item cat-item-15"><a href="http://www.oferte.ro/categorie/imobiliare/spatii-comerciale" title="View all posts filed under Spatii comerciale">Spatii comerciale</a> (2) </li> 
+          <li class="cat-item cat-item-10"><a href="http://www.oferte.ro/categorie/imobiliare/terenuri" title="View all posts filed under Terenuri">Terenuri</a> (12) </li> 
+         </ul> 
+         <div class="clr"></div> 
+        </div>
+        <!-- /shadowblock --> 
+       </div>
+       <!-- /shadowblock_out --> 
+       <div class="shadowblock_out" id="widget_text">
+        <div class="shadowblock"> 
+         <div class="textwidget">
+          <p align="center"> <script type="text/javascript"><!--
+google_ad_client = "ca-pub-1841204302098739";
+/* Oferte-350X250 */
+google_ad_slot = "6701666996";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script> <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </p>
+         </div> 
+        </div>
+        <!-- /shadowblock -->
+       </div>
+       <!-- /shadowblock_out -->
+       <div class="shadowblock_out" id="widget_top_ads">
+        <div class="shadowblock">
+         <h2 class="dotted">Ultimele oferte</h2>
+         <ul class="pop">
+          <li><a href="http://www.oferte.ro/anunt/masina-polisat-rupes-lh-18ens">Masina Polisat RUPES LH 18ENS</a> (3&nbsp;vizualizari)</li>
+          <li><a href="http://www.oferte.ro/anunt/masina-exenter-makita-pentru-scos-holograme-si-aplicat-ceara-pe-caroserie-masini">Masina EXENTER MAKITA pentru scos Holograme si aplicat ceara pe caroserie masini</a> (2&nbsp;vizualizari)</li>
+          <li><a href="http://www.oferte.ro/anunt/tastatura-si-mouse-wireless">Tastatura si mouse wireless</a> (2&nbsp;vizualizari)</li>
+          <li><a href="http://www.oferte.ro/anunt/acvarii-cu-mobilier">Acvarii cu mobilier</a> (2&nbsp;vizualizari)</li>
+          <li><a href="http://www.oferte.ro/anunt/ford-mondeo-tdi-combi">FORD MONDEO TDI COMBI</a> (2&nbsp;vizualizari)</li>
+          <li><a href="http://www.oferte.ro/anunt/unitate-dell">Unitate Compaq</a> (2&nbsp;vizualizari)</li>
+          <li><a href="http://www.oferte.ro/anunt/aspirator-cu-pulverizator-karcher">Aspirator cu pulverizator K&Auml;RCHER</a> (2&nbsp;vizualizari)</li>
+          <li><a href="http://www.oferte.ro/anunt/volkswagen-golf-4-sport-de-vanzare">Volkswagen Golf 4 sport de vanzare</a> (2&nbsp;vizualizari)</li>
+          <li><a href="http://www.oferte.ro/anunt/apartament-3-camere-decomandat-vasile-aaron-et-1">Apartament 3 camere decomandat - Vasile Aaron - et. 1</a> (2&nbsp;vizualizari)</li>
+          <li><a href="http://www.oferte.ro/anunt/vand-pompa-injectie-opel-vectra-2-0-dti">Vand pompa injectie Opel Vectra 2.0 dti</a> (2&nbsp;vizualizari)</li>
+         </ul>
+        </div>
+        <!-- /shadowblock -->
+       </div>
+       <!-- /shadowblock_out --> 
+      </div>
+      <!-- /content_right --> 
+      <div class="clr"></div> 
+     </div>
+     <!-- /content_res --> 
+    </div>
+    <!-- /content_botbg --> 
+   </div>
+   <!-- /content --> 
+   <div class="footer"> 
+    <div class="footer_menu"> 
+     <div class="footer_menu_res"> 
+      <ul> 
+       <li class="first"><a href="http://www.oferte.ro">Acasa</a></li> 
+       <li class="page_item page-item-9"><a href="http://www.oferte.ro/blog">Blog</a></li> 
+      </ul> 
+      <div class="clr"></div> 
+     </div>
+     <!-- /footer_menu_res --> 
+    </div>
+    <!-- /footer_menu --> 
+    <div class="footer_main"> 
+     <div class="footer_main_res"> 
+      <div class="dotted"> 
+       <!-- no dynamic sidebar so don't do anything --> 
+       <div class="clr"></div> 
+      </div>
+      <!-- /dotted --> 
+      <p>&copy; 2013 Oferte.Ro. Toate drepturile rezervate.</p> 
+      <div class="right"> 
+      </div> 
+      <div class="clr"></div> 
+     </div>
+     <!-- /footer_main_res --> 
+    </div>
+    <!-- /footer_main --> 
+   </div>
+   <!-- /footer --> 
+   <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26158312-22']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> 
+   <script type="text/javascript">
+		var ajaxurl = 'http://www.oferte.ro/wp-admin/admin-ajax.php';
+	</script> 
+   <div id="fb-root"></div> 
+   <script type="text/javascript">
+		//<![CDATA[
+		  window.fbAsyncInit = function() {
+			FB.init({
+			  appId   : '',
+			  session : null,
+			  status  : true,
+			  cookie  : true, 
+			  xfbml   : true 
+			});
+
+			// whenever the user logs in, we refresh the page
+			FB.Event.subscribe('auth.login', function() {
+			  window.location.reload();
+			});
+		  };
+		  
+		  (function() {
+			var e = document.createElement('script');
+			e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+			e.async = true;
+			document.getElementById('fb-root').appendChild(e);
+		  }());
+		//]]>
+		</script> 
+   <script type="text/javascript" src="http://www.oferte.ro/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js?ver=1.8.16"></script> 
+   <script type="text/javascript" src="http://www.oferte.ro/wp-includes/js/jquery/ui/jquery.ui.slider.min.js?ver=1.8.16"></script> 
+  </div>
+  <!-- /container -->  
+ </body>
+</html>

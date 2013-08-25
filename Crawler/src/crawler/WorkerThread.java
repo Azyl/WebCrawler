@@ -108,7 +108,7 @@ void create_file (Object doc,String fpath)
         //Document doc = Jsoup.parse(input, "UTF-8", "http://example.com/");
             
         Document doc = Jsoup.connect(url).userAgent("Mozilla").get();
-        //create_file(doc.html(),tempFile_name);
+        create_file(doc.html(),tempFile_name);
         
         Elements breadcrumbs = doc.select("div#crumbs > a");
         
